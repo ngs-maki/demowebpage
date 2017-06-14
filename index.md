@@ -1,16 +1,5 @@
 ## Welcome to Suavecita's Home Page
 
-## About
-### Contacts
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
 
